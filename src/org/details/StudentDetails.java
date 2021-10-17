@@ -2,6 +2,8 @@ package org.details;
 
 public class StudentDetails {
 	public static void main(String[] args) {
+		
+		System.out.println("Student Details");
 		//data type variableName=value;
 		byte age=23;
 		short pin=1607;
